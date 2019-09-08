@@ -1,5 +1,24 @@
 ## Setup your workspace
 
+> [!WARNING]
+> This documentation is still in progress and might change at any stage.
+
+To help you get started quickly and set-up your digital process workspace follow these steps:
+
+If you did not do so yet please signup for free at https://app.kianda.com/signup
+
+Once you confirm your email address and sign-in for the first time you will be prompted to finalise the configuration of your digital process workspace.
+
+![1567959984718](images/get-started-setup.png)
+
+1. Define your brand colours and  logos under look and feel
+2. Apply a design style to your workspace Login page
+3. Define your regional settings and time-zone
+4. Configure the mobile app (PWA) settings
+
+> On completion of this guide you will get a fully customised digital process workspace at https://&lt;businessName&gt;.kianda.com ready for you and your co-workers to use.
+>
+
 ## Creating your first process
 
 Once you have setup your identity you should be able to quick progress to starting creating quick forms or full blown processes with Kianda.
@@ -19,6 +38,8 @@ In general we normally include the following key steps to build a process in an 
 3. Publish to dashboards, anonymous forms or SharePoint for end user distribution
 4. Repeat until perfect
 
+Wen you are ready navigate to https://&lt;businessName&gt;.kianda.com/admin/designer then click "Add new" to create a new process.
+
 ***Platform getting started video***
 
 <video width="100%" style="width:100%" controls>
@@ -29,7 +50,7 @@ In general we normally include the following key steps to build a process in an 
 
 ## Form designer
 
-Kianda form designer provides an intuitive interface where both technical users and non-technical users can quick build forms for a multitude of use cases.
+Kianda [form designer](form-designer.md) provides an intuitive interface where both technical users and non-technical users can quickly build forms for a multitude of use cases.
 
 The key components of the form designer are:
 
@@ -62,13 +83,15 @@ At the time of writing the default fields fall into 4 main categories of fields:
 3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components
 4. **Custom**  - Under custom fields you will find any custom developed fields available under your developer section
 
-
-
-
-
-
+[Learn more about the form designer](form-designer.md)
 
 ## Dynamic rules
+
+Building interfaces with the form designer is quick intuitive. Making it interactive is a breeze. 
+
+Simply select any form component or even the whole process then under rules click to add a new rule.
+
+![Rules panel](images/rules-panel.png)
 
 ## Connect to your data
 

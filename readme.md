@@ -10,3 +10,7 @@ Kianda forms provides an ideal interface for rapid prototyping and delivering ou
 
 As you might already guessed Kianda allows you to build forms that can work together to provide a full modern digital experience.
 
+> [!WARNING]
+> This documentation is still in progress. It is incomplete and might change at any stage.
+
+
