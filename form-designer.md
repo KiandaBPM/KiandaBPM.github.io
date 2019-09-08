@@ -1,0 +1,193 @@
+# Introduction to form designer
+
+Kianda form designer provides an intuitive interface where both technical and non-technical users can quick start build forms for any use case.
+
+The key components of the form designer are:
+
+1. Left side panel containing both **controls** and **types of rules** that can be added to forms
+2. The central area where the current **form canvas** is displayed
+3. The right panel that displays currently selected component **properties** and rules
+
+***Form designer key components***
+
+![Form designer components](images/form-designer.png)
+
+## Responsive form layout
+
+Form fields are made to with a mobile first approach giving you a design once and deploy everywhere opportunity.
+
+By using the **Layout** option under the property panel you will be able to quickly define the layout of your fields or panels within a form. Clicking on the **ⱽ** quickly uncovers the layout mode for desktop and for mobile.
+
+![Layout mode](images/layout-mode.png)
+
+This allows you to specify a layout made of 1 to 12 columns and is based on bootstrap, a popular CSS  framework that allows designing web interfaces with mobile first approach.
+
+## Forms & layout fields
+
+Kianda comes a number of pre-defined field widgets. In case none of them satisfy your specific needs and you have some level of [development](development.md) skills you can always create your own custom field widget.
+
+At the time of writing the default fields fall into 4 main categories of fields:
+
+1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields
+2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout your form. They include responsive panels, dialog box and rich text fields
+3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components
+4. **Custom**  - Under custom fields you will find any custom developed fields available under your developer section
+
+Layout fields take an important role when building a modern user interface and allow you to achieve the pixel perfect layout you want.
+
+### Modal dialogs
+
+Modal dialogs are a special form of layout fields. It allows a form designer to define an interface with the key intention of grabbing users attentian to something import.
+
+Typically we use dialogs for things like requiring user confirmation or to let them make a final decision.
+
+***How to use a model dialog***
+
+![Modal Dialogs](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/5fcf2af2-4ab0-4c62-9fe0-59ea6bbab13e.gif)
+
+ On the example above, we are use a modal dialog to display a simple *warning to the user*. The following are the steps:
+
+1. On the Layout components, select the *Dialog*
+2. Click on the dialog component to insert other fields within it
+3. You can add any field to your dialog, in this case we are adding a Rich text
+4. To preview how your dialog box will be displayed, you can use the **Preview** button, on the dialog component
+
+### Forms
+
+Forms are an important component of any process, they might be used as stages of a process made active all at the same time (parallel forms).
+
+The key rules for working with forms are:
+
+1. Forms are assignable - means that only a form assignee can edit a particular form. This can be a combination of users and groups
+2. Only form owners can edit a given form by default. Any other user with access to the form will see it in read-only mode
+3. Multi-step processes use the concept of "current form". Only the form matching the process status will be made editable
+4. In a multi step process other forms that are not "current form" can be configured to **activate with** the current form. Meaning they might also be editable and will form a form group
+
+The rules above are chained meaning that their combination will work to determine if the form is edit mode or display mode. Form designers have at their disposal [business rules](business-rules.md) such as *assign form*, *go to form* and *submit rule* to dynamically control the ability for end users edit a particular form or section of a form.
+
+***How to add new form***
+
+![How to add a new form](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/14015ac2-2a2a-4bce-b52a-02585e166679.gif)
+
+1. Click on *Add form*, on the top right side of the page.
+2. Give your form a title.
+3. The *name* is a unique identifier - you can leave it as it is.
+4. You can define an owner to the form.
+5. Activate with will decide when the form will be active - if you leave it blank, the new form will be activated *sequentially* after the first form is submitted.
+6. You can also decide what happens when the form is submitted.
+
+## Anonymous Forms
+
+Anonymous forms are a great way of of allowing people outside of your organisation to interact with your processes. 
+
+It could something as simple as a contact form or a feedback form but as we all now a contact form never ends with the contact form submission. There is always a process or a series of steps behind each public / anonymous form that might culminate with an actionable result back to the person that started the submission.
+
+We have seen a few examples how people use anonymous forms in Kianda. From simply feedback forms to GDPR data requests that hope between multi divisions before sending back a response to the requester with the level of information held by the organization.
+
+Anonymous forms can be embedded in iframes and safely displayed within other web based applications.
+
+### Two types anonymous forms
+
+In Kianda there are effectively 2 types of anonymous forms
+
+- New process anonymous form
+- Existing process anonymous form
+
+**New Process anonymous form**
+
+To setup a globally available link for allowing external users create a new instance perform the following steps within the form designer.
+
+1. On the top right corner of the designer click on the settings button
+2. Then click the option "Enable anonymous sharing of forms" to Yes
+3. Click the button "New Link" to generate a new anonymous link
+
+
+
+![New process anonymous form](images/Enable New Process Anonymous Forms.png)
+
+**Existing Process Anonymous Form**
+
+To setup existing instance anonymous form one needs to use the anonymous form rule to generate a new anonymous link that can then be shared with external users.
+
+Note that for this to work steps 1 and 2 of New Process Anonymous form is still required.
+
+The following are some of the key options of the anonymous link rule:
+
+- Form to share (Any form within an existing process)
+- Link expire settings: Number of uses, time based or never expire
+- Message to display on submission
+
+**Important**: There can be only one active link of each type for a given process. Once a new anonymous link is created for a process it will automatically expire the previous of the same type if a link existed.
+
+
+
+## Input fields
+
+Kianda forms usability is brought to life with the help of the various input fields available that are specifically adapted to work  both in mobile, tablet or desktop modes.
+
+From textbox, date picker, numeric input, file upload and table Kianda offers a flexible array of controls that can be adjusted to work with a myriad of scenarios.
+
+Key properties of fields:
+
+Each field comes with its own set of settings like autofill for textbox and currency format for numeric input. 
+
+The following are some of the common settings of input fields:
+
+- Title - Every field comes with a title property that is usually displayed on top of the field and can serve as a prompt to a user
+- Required - This Boolean property allows making a field mandatory or not
+- Visible - Displays the field in the form or not
+- Layout - defines both desktop or mobile layout
+
+### Cascading dropdown
+
+The List field provides the opportunity to define an unlimited level cascading dropdown hierarchy very easily.
+
+To achieve that you might connect your list to a data source table or SharePoint list then use the list data source conditions options to filter its content based on a parent list. 
+
+![Cascading dropdown](images/cascading-dropdown.png)
+
+***How to create cascading dropdowns***
+
+![How to create cascading dropdown](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/aa23650a-e87e-4f29-b70b-8de1510af61a.gif)
+
+## Input validation
+
+Validating input in forms is quick and easy. Simply enable the **required** flag of an input field and it will automatically prevent users submit it empty.
+
+The required flag will conveniently be ignored in case the field in not visible, this will allow you configure conditionally mandatory fields.
+
+Another way of validating input is to use the **validate input rule** this allows greater flexibility in terms of when or what to validate.
+
+## Cloning
+
+In the form designer almost any of the components can be cloned. This will increase your productivity considerable and will make creating multi step processes a breeze.
+
+To clone either a field a panel or even a form simple select the component then click the clone button in the  properties panel in right hand side of the panel.
+
+If cloning a field the conning dialog will prompt for the destination of the new cloned field once your choice is made simple click ok.
+
+***Cloning a form***
+
+![Duplicate a form](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/d1bf565d-3925-42a3-877e-47b736a9cf6a.gif)
+
+## Custom fields
+
+Custom fields section provides access to fields that are built for extensibility of Kianda capabilities. It is particularly useful in those situations where existing fields or rules will not provide the required functionality.
+
+Custom fields have the purpose of providing user interface for end users. If you need to build "an action" then you should use instead a custom rule widget.
+
+It allows a developer to build a reusable component that would then be used by process designers in real processes.
+
+Check-out the [development](development.md) section for more details on how to build custom widgets in Kianda.
+
+## Advanced techniques
+
+Like the cascading dropdown discussed above several other advanced scenarios can be easily configured in Kianda. Here is a short list:
+
+- **Repeating section** - A repeating section can be created by adding a **panel** to a table field. This table can be configured to include a single column made of of the panel that itself will include the repeating fields of your repeating section
+- **Capture of media** - Kianda enables mobile users to directly capture pictures, video or audio just like a native application
+-  **Background save** - By making use of PWA principles (Progressive Web Application) Kianda allows the ability to perform background operations. This is useful when for example a mobile user picks-up their phone perform a quick action and places it back in his pocket. Operations will continue in the background allowing all data to be captured
+- **Image annotation** - Kianda allows for image annotation online or offline 
+- **Multi column / row layout** - Making multi column responsive interfaces is quite easy. Simply add 2 panels into a form that only use half of the screen (6 columns) then add fields inside panels and you have a multiple column layout. Adding a panel using 12 columns gives you a row.
+- **Form tab colour and icon** - Form tabs can be quickly customised to display their own icons or tab colours, it is also possible to define custom colours for selected and completed form tabs.
+- **Hide form tab and left nav** - This is self explanatory, yes you can hide the default navigation elements
