@@ -16,29 +16,29 @@ Once you confirm your email address and sign-in for the first time you will be p
 3. Define your regional settings and time-zone
 4. Configure the mobile app (PWA) settings
 
-> On completion of this guide you will get a fully customised digital process workspace at https://&lt;businessName&gt;.kianda.com ready for you and your co-workers to use.
+> On completion of this guide, you will get a fully customised digital process workspace at https://&lt;businessName&gt;.kianda.com ready for you and your co-workers to use.
 >
 
 ## Creating your first process
 
-Once you have setup your identity you should be able to quick progress to starting creating quick forms or full blown processes with Kianda.
+Once you have setup your identity you should be able to quickly progress to starting creating quick forms or full-blown processes with Kianda.
 
 Creating your first process in Kianda starts with designing your first form.
 
-Because Kianda is a forms based process automation platform it all starts with a form. It might be a simple contact form or something else more complex but soon you will be able to add more forms like "Follow-up form" or even a "Closure form".
+Because Kianda is a forms-based process automation platform it all starts with a form. It might be a simple contact form or something else more complex but soon you will be able to add more forms like "Follow-up form" or even a "Closure form".
 
-Although Kianda aims to be intuitive and easy to get started it is never difficult to over engineer. So at Kianda we always recommend to do some simple planning before you actually design your first form.
+Although Kianda aims to be intuitive and easy to get started it is never difficult to over-engineer. So at Kianda we always recommend doing some simple planning before you actually design your first form.
 
 It could be something as simple as a quick drawing or as we use a spreadsheet where you quickly log the key components, fields or rules that should be needed in the process.
 
-In general we normally include the following key steps to build a process in an agile manner:
+In general, we normally include the following key steps to build a process in an agile manner:
 
 1. Plan process design, forms, fields, rules, log into design spreadsheet
 2. Build forms and fields connecting to data where applicable
-3. Publish to dashboards, anonymous forms or SharePoint for end user distribution
+3. Publish to dashboards, anonymous forms or SharePoint for end-user distribution
 4. Repeat until perfect
 
-Wen you are ready navigate to https://&lt;businessName&gt;.kianda.com/admin/designer then click "Add new" to create a new process.
+When you are ready, navigate to https://&lt;businessName&gt;.kianda.com/admin/designer then click "Add new" to create a new process.
 
 ***Platform getting started video***
 
@@ -64,24 +64,24 @@ The key components of the form designer are:
 
 ### Responsive form layout
 
-Form fields are made to with a mobile first approach giving you a design once and deploy everywhere opportunity.
+Form fields are made with a mobile-first approach giving you a one-time design once and deploy everywhere opportunity.
 
 By using the **Layout** option under the property panel you will be able to quickly define the layout of your fields or panels within a form. Clicking on the **ⱽ** quickly uncovers the layout mode for desktop and for mobile.
 
 ![Layout mode](images/layout-mode.png)
 
-This allows you to specify a layout made of 1 to 12 columns and is based on bootstrap, a popular CSS  framework that allows designing web interfaces with mobile first approach.
+This allows you to specify a layout made of 1 to 12 columns and is based on bootstrap, a popular CSS  framework that allows designing web interfaces with mobile-first approach.
 
 ### Types of fields
 
-Kianda comes a number of pre-defined field widgets. In case none of them satisfy your specific needs and you have some level of [development](development.md) skills you can always create your own custom field widget.
+Kianda comes with a number of pre-defined field widgets. In case none of them satisfies your specific needs and you have some level of [development](development.md) skills you can always create your own custom field widget.
 
 At the time of writing the default fields fall into 4 main categories of fields:
 
 1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields
 2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout your form. They include responsive panels, dialog box and rich text fields
 3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components
-4. **Custom**  - Under custom fields you will find any custom developed fields available under your developer section
+4. **Custom**  - Under custom fields, you will find any custom-developed fields available under your developer section
 
 [Learn more about the form designer](form-designer.md)
 
