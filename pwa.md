@@ -1,14 +1,14 @@
 # Progressive Web Application (PWA)
 
-Kianda is a progressive web application. This means with Kianda you get a digital experience that is  native like while maintaining online web benefits.  
+Kianda is a progressive web application. This means with Kianda you get a digital experience that is native-like while maintaining online web benefits.  
 
 > *Access your digital workspace PWA by going to https://&lt;businessName&gt;.kianda.com*
 
 There are several benefits of using a PWA app when comparing to a web app or even a native only app.
 
-- **Reliable** - *Apps keep working with or without network access. Even when your users are going though a tunnel in a lift changes are automatically queued offline then synchronised when connectivity is restored*
-- **Fast** - App loads quickly thanks having the app installed locally, app resources are available offline
-- **Engaging** - When installed on your home screen with your own brand icons users receive timely push notifications that help them stay engaged
+- **Reliable** - *Apps keep working with or without network access. Even when your users are going through a tunnel in a lift changes are automatically queued offline then synchronised when connectivity is restored*
+- **Fast** - App loads quickly thanks to having the app installed locally, app resources are available offline
+- **Engaging** - When installing on your home screen with your brand icons users receive timely push notifications that help them stay engaged
 
 ## Installing your PWA on a mobile
 
@@ -22,7 +22,7 @@ Optionally users can manually install it by following the steps:
 
 1. Navigate to https://&lt;businessName&gt;.kianda.com
 2. Click![1567866702202](images/android-nav.png)then tap on "Add to Home screen"
-3. On the confirm dialog tap"Add"
+3. On the confirm dialog tap "Add"
 
 ### iOS
 
