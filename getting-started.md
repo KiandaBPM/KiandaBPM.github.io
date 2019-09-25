@@ -66,7 +66,7 @@ The key components of the form designer are:
 
 Form fields are made with a mobile-first approach giving you a one-time design once and deploy everywhere opportunity.
 
-By using the **Layout** option under the property panel you will be able to quickly define the layout of your fields or panels within a form. Clicking on the **ⱽ** quickly uncovers the layout mode for desktop and for mobile.
+By using the **Layout** option under the property panel you will be able to quickly define the layout of your fields or panels within a form. Clicking on the **ⱽ** quickly uncovers the layout mode for desktop and mobile.
 
 ![Layout mode](images/layout-mode.png)
 
@@ -74,7 +74,7 @@ This allows you to specify a layout made of 1 to 12 columns and is based on boot
 
 ### Types of fields
 
-Kianda comes with a number of pre-defined field widgets. In case none of them satisfies your specific needs and you have some level of [development](development.md) skills you can always create your own custom field widget.
+Kianda comes with a number of pre-defined field widgets. In case none of them satisfies your specific needs and if you have some level of [development](development.md) skills you can always create your own custom field widget.
 
 At the time of writing the default fields fall into 4 main categories of fields:
 
