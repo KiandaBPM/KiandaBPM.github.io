@@ -95,7 +95,7 @@ Simply select any form component or even the whole process then under rules clic
 
 ## Connect to your data
 
-Kianda comes with a pre-defined set of datasources. Few of the pre-defined datasources are Office 365, SharePoint, Saleforce, DocuSign, SAP and more.
+Kianda comes with a pre-defined set of data-connectors. Few of the pre-defined data-connectors are Office 365, SharePoint, Saleforce, DocuSign, SAP and more. However, using SOAP or REST service we could easily connect with a datasource that doesn't exist in our pre-defined list.
 
 ![Datasource](images\data-source.PNG)
 
