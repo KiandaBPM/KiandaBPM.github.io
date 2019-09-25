@@ -6,9 +6,9 @@ Kianda is a progressive web application. This means with Kianda you get a digita
 
 There are several benefits of using a PWA app when comparing to a web app or even a native only app.
 
-- **Reliable** - *Apps keep working with or without network access. Even when your users are going through a tunnel in a lift changes are automatically queued offline then synchronised when connectivity is restored*
-- **Fast** - App loads quickly thanks to having the app installed locally, app resources are available offline
-- **Engaging** - When installing on your home screen with your brand icons users receive timely push notifications that help them stay engaged
+- **Reliable** - *Apps keep working with or without network access. Even when your users are going through a tunnel in a lift changes are automatically queued offline then synchronised when connectivity is restored*.
+- **Fast** - App loads quickly thanks to having the app installed locally, app resources are available offline.
+- **Engaging** - When installing on your home screen with your brand icons users receive timely push notifications that help them stay engaged.
 
 ## Installing your PWA on a mobile
 
@@ -20,17 +20,17 @@ Android users are automatically prompted to install the PWA when they navigate t
 
 Optionally users can manually install it by following the steps:
 
-1. Navigate to https://&lt;businessName&gt;.kianda.com
-2. Click![1567866702202](images/android-nav.png)then tap on "Add to Home screen"
-3. On the confirm dialog tap "Add"
+1. Navigate to https://&lt;businessName&gt;.kianda.com.
+2. Click![1567866702202](images/android-nav.png)then tap on "Add to Home screen".
+3. On the confirm dialog tap "Add".
 
 ### iOS
 
 iOS users are not yet automatically prompted to install PWA's but it is something that can also very quickly be done by iOS users.
 
-1. Navigate to https://&lt;businessName&gt;.kianda.com
-2. Tap the action button![1567867653481](images/ios-action.png)then tap "Add to Home screen"
-3. On the "Add to Home Screen" tap "Add"
+1. Navigate to https://&lt;businessName&gt;.kianda.com.
+2. Tap the action button![1567867653481](images/ios-action.png)then tap "Add to Home screen".
+3. On the "Add to Home Screen" tap "Add".
 
 ## Offline or online
 

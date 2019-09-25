@@ -4,9 +4,9 @@ Kianda form designer provides an intuitive interface where both technical and no
 
 The key components of the form designer are:
 
-1. Left side panel containing both **controls** and **types of rules** that can be added to forms
-2. The central area where the current **form canvas** is displayed
-3. The right panel that displays currently selected component **properties** and rules
+1. Left side panel containing both **controls** and **types of rules** that can be added to forms.
+2. The central area where the current **form canvas** is displayed.
+3. The right panel that displays currently selected component **properties** and rules.
 
 ***Form designer key components***
 
@@ -28,10 +28,10 @@ Kianda comes with a several pre-defined field widgets. In case none of them sati
 
 At the time of writing the default fields fall into 4 main categories of fields:
 
-1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields
-2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout your form. They include responsive panels, dialog box and rich text fields
-3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components
-4. **Custom**  - Under custom fields, you will find any custom developed fields available under your developer section
+1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields.
+2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout your form. They include responsive panels, dialog box and rich text fields.
+3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components.
+4. **Custom**  - Under custom fields, you will find any custom developed fields available under your developer section.
 
 Layout fields take an important role when building a modern user interface and allow you to achieve the pixel perfect layout you want.
 
@@ -47,10 +47,10 @@ Typically we use dialogs for things like requiring user confirmation or to let t
 
  On the example above, we use a modal dialog to display a simple *warning to the user*. The following are the steps:
 
-1. On the Layout components, select the *Dialog*
-2. Click on the dialog component to insert other fields within it
-3. You can add any field to your dialog, in this case, we are adding a Rich text
-4. To preview how your dialog box will be displayed, you can use the **Preview** button, on the dialog component
+1. On the Layout components, select the *Dialog*.
+2. Click on the dialog component to insert other fields within it.
+3. You can add any field to your dialog, in this case, we are adding a Rich text.
+4. To preview how your dialog box will be displayed, you can use the **Preview** button, on the dialog component.
 
 ### Forms
 
@@ -58,10 +58,10 @@ Forms are an important component of any process, they might be used as stages of
 
 The key rules for working with forms are:
 
-1. Forms are assignable - means that only a form assignee can edit a particular form. This can be a combination of users and groups
-2. Only form owners can edit a given form by default. Any other user with access to the form will see it in read-only mode
-3. Multi-step processes use the concept of "current form". Only the form matching the process status will be made editable
-4. In a multi step process other forms that are not "current form" can be configured to **activate with** the current form. Meaning they might also be editable and will form a form group
+1. Forms are assignable - means that only a form assignee can edit a particular form. This can be a combination of users and groups.
+2. Only form owners can edit a given form by default. Any other user with access to the form will see it in read-only mode.
+3. Multi-step processes use the concept of "current form". Only the form matching the process status will be made editable.
+4. In a multi step process other forms that are not "current form" can be configured to **activate with** the current form. Meaning they might also be editable and will form a form group.
 
 The rules above work together to determine if the form is edit mode or display mode. Form designers have at their disposal [business rules](business-rules.md) such as *assign form*, *go to form* and *submit rule* to dynamically control the ability for end users edit a particular form or section of a form.
 
@@ -97,9 +97,9 @@ In Kianda there are effectively 2 types of anonymous forms
 
 To setup a globally available link for allowing external users to create a new instance, perform the following steps within the form designer:
 
-1. On the top right corner of the designer click on the settings button
-2. Then click the option "Enable anonymous sharing of forms" to Yes
-3. Click the button "New Link" to generate a new anonymous link
+1. On the top right corner of the designer click on the settings button.
+2. Then click the option "Enable anonymous sharing of forms" to Yes.
+3. Click the button "New Link" to generate a new anonymous link.
 
 
 
@@ -113,9 +113,9 @@ Note that for this to work steps 1 and 2 of New Process Anonymous form is still 
 
 The following are some of the key options of the anonymous link rule:
 
-- Form to share (Any form within an existing process)
-- Link expire settings: Number of uses, time-based or never expire
-- Message to display on submission
+- Form to share (Any form within an existing process).
+- Link expire settings: Number of uses, time-based or never expire.
+- Message to display on submission.
 
 **Important**: There can be only one active link of each type for a given process. Once a new anonymous link is created for a process it will automatically expire the previous of the same type if a link existed.
 
@@ -133,10 +133,10 @@ Each field comes with its own set of settings like autofill for textbox and curr
 
 The following are some of the common settings of input fields:
 
-- Title - Every field comes with a title property that is usually displayed on top of the field and can serve as a prompt to a user
-- Required - This Boolean property allows making a field mandatory or not
-- Visible - Displays the field in the form or not
-- Layout - defines both desktop or mobile layout
+- Title - Every field comes with a title property that is usually displayed on top of the field and can serve as a prompt to a user.
+- Required - This Boolean property allows making a field mandatory or not.
+- Visible - Displays the field in the form or not.
+- Layout - defines both desktop or mobile layout.
 
 ### Cascading dropdown
 
@@ -184,10 +184,10 @@ Check-out the [development](development.md) section for more details on how to b
 
 Like the cascading dropdown discussed above several other advanced scenarios can be easily configured in Kianda. Here is a short-list:
 
-- **Repeating section** - A repeating section can be created by adding a **panel** to a table field. This table can be configured to include a single column made of the panel that itself will include the repeating fields of your repeating section
-- **Capture of media** - Kianda enables mobile users to directly capture pictures, video or audio just like a native application
--  **Background save** - By making use of PWA principles (Progressive Web Application) Kianda allows the ability to perform background operations. This is useful when for example a mobile user picks-up their phone perform a quick action and places it back in his pocket. Operations will continue in the background allowing all data to be captured
-- **Image annotation** - Kianda allows for image annotation online or offline 
-- **Multi-column / row layout** - Making multi-column responsive interfaces is quite easy. Simply add 2 panels into a form that only use half of the screen (6 columns) then add fields inside panels and you have a multiple column layout. Adding a panel using 12 columns gives you a row
-- **Form tab colour and icon** - Form tabs can be quickly customised to display their icons or tab colours, it is also possible to define custom colours for selected and completed form tabs
-- **Hide form tab and left nav** - This is self-explanatory, yes you can hide the default navigation elements
+- **Repeating section** - A repeating section can be created by adding a **panel** to a table field. This table can be configured to include a single column made of the panel that itself will include the repeating fields of your repeating section.
+- **Capture of media** - Kianda enables mobile users to directly capture pictures, video or audio just like a native application.
+-  **Background save** - By making use of PWA principles (Progressive Web Application) Kianda allows the ability to perform background operations. This is useful when, for example, a mobile user picks-up their phone to perform a quick action and places it back in his pocket. Operations will continue in the background allowing all data to be captured.
+- **Image annotation** - Kianda allows for image annotation online or offline.
+- **Multi-column / row layout** - Making multi-column responsive interfaces is quite easy. Simply add two panels into a form that only use half of the screen (6 columns) then add fields inside panels and you have a multiple column layouts. Adding a panel using 12 columns gives you a row.
+- **Form tab colour and icon** - Form tabs can be quickly customised to display their icons or tab colours, it is also possible to define custom colours for selected and completed form tabs.
+- **Hide form tab and left nav** - This is self-explanatory, yes you can hide the default navigation elements.

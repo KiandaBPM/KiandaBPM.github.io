@@ -10,8 +10,8 @@ Enabling Single-Sign-On allows the user to login via Single-Sign-On connector. T
 
 1. Login to Kianda (the user most be of Admin role). 
 2. Under the left navigation click on Administration => Subscription => Details. 
-3. 'Enable Single-Sign-On’ to Yes. As shown below![img](images/kianda-sso.jpg)
-4. Select an SSO Provider from the list below
+3. 'Enable Single-Sign-On’ to Yes. As shown below.![img](images/kianda-sso.jpg)
+4. Select an SSO Provider from the list below.
 
 ## Integrate with Office 365
 

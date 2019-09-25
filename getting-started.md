@@ -11,10 +11,10 @@ Once you confirm your email address and sign-in for the first time you will be p
 
 ![1567959984718](images/get-started-setup.png)
 
-1. Define your brand colours and  logos under look and feel
-2. Apply a design style to your workspace Login page
-3. Define your regional settings and time-zone
-4. Configure the mobile app (PWA) settings
+1. Define your brand colours and  logos under look and feel.
+2. Apply a design style to your workspace Login page.
+3. Define your regional settings and time-zone.
+4. Configure the mobile app (PWA) settings.
 
 > On completion of this guide, you will get a fully customised digital process workspace at https://&lt;businessName&gt;.kianda.com ready for you and your co-workers to use.
 >
@@ -33,10 +33,10 @@ It could be something as simple as a quick drawing or as we use a spreadsheet wh
 
 In general, we normally include the following key steps to build a process in an agile manner:
 
-1. Plan process design, forms, fields, rules, log into design spreadsheet
-2. Build forms and fields connecting to data where applicable
-3. Publish to dashboards, anonymous forms or SharePoint for end-user distribution
-4. Repeat until perfect
+1. Plan process design, forms, fields, rules, log into design spreadsheet.
+2. Build forms and fields connecting to data where applicable.
+3. Publish to dashboards, anonymous forms or SharePoint for end-user distribution.
+4. Repeat until perfect.
 
 When you are ready, navigate to https://&lt;businessName&gt;.kianda.com/admin/designer then click "Add new" to create a new process.
 
@@ -54,9 +54,9 @@ Kianda [form designer](form-designer.md) provides an intuitive interface where b
 
 The key components of the form designer are:
 
-1. Left side panel containing both **controls** and **types of rules** that can be added to forms
-2. The central area where the current **form canvas** is displayed
-3. The right panel that displays currently selected component **properties** and rules
+1. Left side panel containing both **controls** and **types of rules** that can be added to forms.
+2. The central area where the current **form canvas** is displayed.
+3. The right panel that displays currently selected component **properties** and rules.
 
 ***Form designer key components***
 
@@ -78,10 +78,10 @@ Kianda comes with a number of pre-defined field widgets. In case none of them sa
 
 At the time of writing the default fields fall into 4 main categories of fields:
 
-1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields
-2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout your form. They include responsive panels, dialog box and rich text fields
-3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components
-4. **Custom**  - Under custom fields, you will find any custom-developed fields available under your developer section
+1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields.
+2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout your form. They include responsive panels, dialog box and rich text fields.
+3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components.
+4. **Custom**  - Under custom fields, you will find any custom-developed fields available under your developer section.
 
 [Learn more about the form designer](form-designer.md)
 
