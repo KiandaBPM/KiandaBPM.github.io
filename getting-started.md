@@ -97,7 +97,7 @@ Simply select any form component or even the whole process then under rules clic
 
 Kianda comes with a pre-defined set of datasources. Few of the pre-defined datasources are Office 365, SharePoint, Saleforce, DocuSign, SAP and more.
 
-![Datasource](C:\Projects\Docs\KiandaBPM.github.io\images\data-source.PNG)
+![Datasource](images\data-source.PNG)
 
 ## Publishing a process
 
