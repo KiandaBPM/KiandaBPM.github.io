@@ -95,6 +95,10 @@ Simply select any form component or even the whole process then under rules clic
 
 ## Connect to your data
 
+Kianda comes with a pre-defined set of datasources. Few of the pre-defined datasources are Office 365, SharePoint, Saleforce, DocuSign, SAP and more.
+
+![1569423799441](C:\Users\ShahidSalam\AppData\Roaming\Typora\typora-user-images\1569423799441.png)
+
 ## Publishing a process
 
 
