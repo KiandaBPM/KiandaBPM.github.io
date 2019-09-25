@@ -6,7 +6,7 @@ Kianda is a progressive web application. This means with Kianda you get a digita
 
 There are several benefits of using a PWA app when comparing to a web app or even a native only app.
 
-- **Reliable** - *Apps keep working with or without network access. Even when your users are going through a tunnel in a lift changes are automatically queued offline then synchronised when connectivity is restored*.
+- **Reliable** - Apps keep working with or without network access. Even when your users are going through a tunnel or in a lift, changes are automatically queued offline and then synchronised when connectivity is restored.
 - **Fast** - App loads quickly thanks to having the app installed locally, app resources are available offline.
 - **Engaging** - When installing on your home screen with your brand icons users receive timely push notifications that help them stay engaged.
 
