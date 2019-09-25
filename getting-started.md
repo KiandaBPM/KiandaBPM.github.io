@@ -103,8 +103,8 @@ Kianda comes with a pre-defined set of data-connectors. Few of the pre-defined d
 
 Kianda form designer comes with a intiutive interface to quickly Save and Publish any designs. The form designer could choose from the below options.
 
-1. Bulk update process instances? - If this is set to be Yes, the designer could select the process instances to be updated with the latest changes in the design.  If No, this could just save the latest changes and publish to a new version.
-2. Trigger field rules after design update? - If this option is set to be Yes, the designer could set a rule or rules to be executed after the design is updated. 
-3. Update all instances? - If this is set to be Yes, the designer could update the process and apply those changes on the existing process instances. 
+1. **Bulk update process instances?** - If this is set to be Yes, the designer could select the process instances to be updated with the latest changes in the design.  If No, this could just save the latest changes and publish to a new version.
+2. **Trigger field rules after design update?** - If this option is set to be Yes, the designer could set a rule or rules to be executed after the design is updated. 
+3. **Update all instances?** - If this is set to be Yes, the designer could update the process and apply those changes on the existing process instances. 
 
 ![Publish form](images\Publish.PNG)
