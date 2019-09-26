@@ -1,6 +1,6 @@
 # Introduction to form designer
 
-Kianda form designer provides an intuitive interface where both technical and non-technical users can quick start build forms for any use case.
+Kianda form designer provides an intuitive interface where both technical and non-technical users can quickly start building forms for any use case.
 
 The key components of the form designer are:
 
@@ -24,20 +24,20 @@ This allows you to specify a layout made of 1 to 12 columns and is based on boot
 
 ## Forms & layout fields
 
-Kianda comes with a several pre-defined field widgets. In case none of them satisfies your specific needs and if you have some level of [development](development.md) skills you can always create your own custom field widget.
+Kianda comes with a number of pre-defined field widgets. In case none of them satisfies your specific needs and if you have some level of [development](development.md) skills you can always create your own custom field widget.
 
-At the time of writing the default fields fall into 4 main categories of fields:
+At the time of writing the default fields fall into four main categories of fields:
 
-1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields.
-2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout your form. They include responsive panels, dialog box and rich text fields.
-3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components.
+1. **Input** - Input fields include the most common data input fields such textbox, user picker, date field, table, checkbox, drop-down and number fields.
+2. **Layout** - Layout fields are the fields that serve the purpose perfecting the layout of your form. They include responsive panels, dialog box, field groups and rich text fields.
+3. **Action** - Action fields are fields that allow user interface actions like buttons, links or even signature components.
 4. **Custom**  - Under custom fields, you will find any custom developed fields available under your developer section.
 
 Layout fields take an important role when building a modern user interface and allow you to achieve the pixel perfect layout you want.
 
 ### Modal dialogs
 
-Modal dialogs are a special form of layout fields. It allows a form designer to define an interface with the key intention of grabbing users attention to something import.
+Modal dialogs are a special form of layout fields. It allows a form designer to define an interface with the key intention of grabbing users attention to something important.
 
 Typically we use dialogs for things like requiring user confirmation or to let them make a final decision.
 
@@ -59,11 +59,11 @@ Forms are an important component of any process, they might be used as stages of
 The key rules for working with forms are:
 
 1. Forms are assignable - means that only a form assignee can edit a particular form. This can be a combination of users and groups.
-2. Only form owners can edit a given form by default. Any other user with access to the form will see it in read-only mode.
+2. Only form owners can edit a given form by default. Any other user with access to view the form will see it in read-only mode.
 3. Multi-step processes use the concept of "current form". Only the form matching the process status will be made editable.
-4. In a multi step process other forms that are not "current form" can be configured to **activate with** the current form. Meaning they might also be editable and will form a form group.
+4. In a multi step process, other forms that are not "current form" can be configured to **activate with** the current form. Meaning they might also be editable and will form a form group.
 
-The rules above work together to determine if the form is edit mode or display mode. Form designers have at their disposal [business rules](business-rules.md) such as *assign form*, *go to form* and *submit rule* to dynamically control the ability for end users edit a particular form or section of a form.
+The rules above work together to determine if the form is in edit mode or display mode. Form designers have at their disposal [business rules](business-rules.md) such as *assign form*, *go to form* and *submit rule* to dynamically control the ability for end users to edit a particular form or a section of a form.
 
 ***How to add new form***
 
@@ -80,9 +80,9 @@ The rules above work together to determine if the form is edit mode or display m
 
 Anonymous forms are a great way of allowing people outside of your organisation to interact with your processes. 
 
-It could something as simple as a contact form or a feedback form but as we all now a contact form never ends with the contact form submission. There is always a process or a series of steps behind each public / anonymous form that might culminate with an actionable result back to the person that started the submission.
+It could be something as simple as a contact form or a feedback form but as we all now a contact form never ends with the contact submission. There is always a process or a series of steps behind each public/anonymous form that might culminate with an actionable result back to the person that started the submission.
 
-We have seen a few examples of how people use anonymous forms in Kianda. From simply feedback forms to GDPR data requests that hope between multi divisions before sending back a response to the requester with the level of information held by the organization.
+We have seen a few examples of how people use anonymous forms in Kianda. From simple feedback forms to GDPR data requests that hope between multi divisions before sending back a response to the requester with the level of information held by the organization.
 
 Anonymous forms can be embedded in iframes and safely displayed within other web-based applications.
 
@@ -101,8 +101,6 @@ To setup a globally available link for allowing external users to create a new i
 2. Then click the option "Enable anonymous sharing of forms" to Yes.
 3. Click the button "New Link" to generate a new anonymous link.
 
-
-
 ![New process anonymous form](images/Enable New Process Anonymous Forms.png)
 
 **Existing Process Anonymous Form**
@@ -113,7 +111,7 @@ Note that for this to work steps 1 and 2 of New Process Anonymous form is still 
 
 The following are some of the key options of the anonymous link rule:
 
-- Form to share (Any form within an existing process).
+- Form to share (any form within an existing process).
 - Link expire settings: Number of uses, time-based or never expire.
 - Message to display on submission.
 
@@ -123,9 +121,9 @@ The following are some of the key options of the anonymous link rule:
 
 ## Input fields
 
-Kianda forms usability is brought to life with the help of the various input fields available that are specifically adapted to work  both in mobile, tablet or desktop modes.
+Kianda forms usability is brought to life with the help of the various input fields available that are specifically adapted to work in mobile, tablet or desktop modes.
 
-From the textbox, date picker, numeric input, file upload and table Kianda offers a flexible array of controls that can be adjusted to work with a myriad of scenarios.
+From the textbox, date picker, numeric input, file upload and table, Kianda offers a flexible array of controls that can be adjusted to work with a myriad of scenarios.
 
 Key properties of fields:
 
@@ -136,7 +134,7 @@ The following are some of the common settings of input fields:
 - Title - Every field comes with a title property that is usually displayed on top of the field and can serve as a prompt to a user.
 - Required - This Boolean property allows making a field mandatory or not.
 - Visible - Displays the field in the form or not.
-- Layout - defines both desktop or mobile layout.
+- Layout - Defines both desktop or mobile layout.
 
 ### Cascading dropdown
 
@@ -164,7 +162,7 @@ In the form designer, almost any of the components can be cloned. This will incr
 
 To clone either a field a panel or even a form simple select the component then click the clone button in the  properties panel in right-hand side of the panel.
 
-If cloning a field the conning dialog will prompt for the destination of the new cloned field once your choice is made simply click ok.
+If cloning a field the clonning dialog will prompt for the destination of the new cloned field, once your choice is made, simply click ok.
 
 ***Cloning a form***
 

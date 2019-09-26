@@ -1,8 +1,5 @@
 ## Setup your workspace
 
-> [!WARNING]
-> This documentation is still in progress and might change at any stage.
-
 To help you get started quickly and set-up your digital process workspace follow these steps:
 
 If you did not do so yet please signup for free at https://app.kianda.com/signup
@@ -11,7 +8,7 @@ Once you confirm your email address and sign-in for the first time you will be p
 
 ![1567959984718](images/get-started-setup.png)
 
-1. Define your brand colours and  logos under look and feel.
+1. Define your brand colours and logos under look and feel.
 2. Apply a design style to your workspace Login page.
 3. Define your regional settings and time-zone.
 4. Configure the mobile app (PWA) settings.
@@ -21,15 +18,15 @@ Once you confirm your email address and sign-in for the first time you will be p
 
 ## Creating your first process
 
-Once you have setup your identity you should be able to quickly progress to starting creating quick forms or full-blown processes with Kianda.
+Once you have setup your identity you should be able to quickly progress to start creating quick forms or full-blown processes with Kianda.
 
 Creating your first process in Kianda starts with designing your first form.
 
-Because Kianda is a forms-based process automation platform it all starts with a form. It might be a simple contact form or something else more complex but soon you will be able to add more forms like "Follow-up form" or even a "Closure form".
+Because Kianda is a forms-based process automation platform it all starts with a form. It might be a simple contact form or something else more complex, but soon you will be able to add more forms like "Follow-up form" or even a "Closure form".
 
 Although Kianda aims to be intuitive and easy to get started it is never difficult to over-engineer. So at Kianda we always recommend doing some simple planning before you actually design your first form.
 
-It could be something as simple as a quick drawing or as we use a spreadsheet where you quickly log the key components, fields or rules that should be needed in the process.
+It could be something as simple as a quick flow chart or as we use a spreadsheet where you quickly log the key components, fields or rules that should be needed in the process.
 
 In general, we normally include the following key steps to build a process in an agile manner:
 
@@ -95,7 +92,7 @@ Simply select any form component or even the whole process then under rules clic
 
 ## Connect to your data
 
-Kianda comes with a pre-defined set of data-connectors. Few of the pre-defined data-connectors are Office 365, SharePoint, Saleforce, DocuSign, SAP and more. 
+Kianda comes with a pre-defined set of data-connectors. A few of them are Office 365, SharePoint, Saleforce, DocuSign, SAP and more. 
 
 However, using SOAP or REST service you could easily connect with a datasource that doesn't exist in our pre-defined list.
 
@@ -103,10 +100,10 @@ However, using SOAP or REST service you could easily connect with a datasource t
 
 ## Publishing a process
 
-Kianda form designer comes with a intiutive interface to quickly Save and Publish any designs. The form designer could choose from the below options.
+Kianda form designer comes with a intiutive interface to quickly Save and Publish any designs. The below are the options available for you to Save and Publish a process.
 
-1. **Bulk update process instances?** - If this is set to be Yes, the designer could select the process instances to be updated with the latest changes in the design.  If No, this could just save the latest changes and publish to a new version.
-2. **Trigger field rules after design update?** - If this option is set to be Yes, the designer could set a rule or rules to be executed after the design is updated. 
-3. **Update all instances?** - If this is set to be Yes, the designer could update the process and apply those changes on the existing process instances. 
+1. **Bulk update process instances?** - If this is set to be Yes, then you could select the process instances to be updated with the latest changes in the design.  If No, this could just save the latest changes and publish to a new version.
+2. **Trigger field rules after design update?** - If this option is set to be Yes, then you could set a rule or rules to be executed after the design is updated which will also update the existing instance for this process.
+3. **Update all instances?** - If this is set to be Yes, then you could update the process and apply those changes on all the existing instances of the process.
 
 ![Publish form](images\Publish.PNG)
