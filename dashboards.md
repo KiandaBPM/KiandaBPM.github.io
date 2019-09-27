@@ -4,9 +4,9 @@
 >
 > This documentation is in progress and might change at any stage
 
-Kianda dashboards offer a convenient way to provide insights into how your business processes are performing. 
+Kianda dashboards offer a convenient way to provide insights into how your business processes are performing.
 
-From lists to tiles, filter and charts dashboards allow to build full digital experiences to monitor your process in real-time.
+From lists to tiles, filter and charts dashboards allow you to build full digital experiences to monitor your process real-time in a few minutes.
 
 <video width="100%" style="width:100%" controls>
     <source src="videos/dashboard-intro.mp4">

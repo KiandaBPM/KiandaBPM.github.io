@@ -1,11 +1,8 @@
 # Introduction to rules with Kianda
 
-> [!WARNING]
-> This documentation is still in progress and might change at any stage.
-
 Business rules are what makes Kianda forms come alive. They represent the actual actions users intend to perform when they interact with form components.
 
-> There are more 56 default business rules in Kianda and you might easily create more
+> There are 56 default business rules in Kianda and you might easily create more.
 
 In Kianda, we categorise business rules in the below categories:
 
@@ -13,7 +10,7 @@ In Kianda, we categorise business rules in the below categories:
 - **Communications** - Enables sending emails or meeting requests or even user (push) notifications.
 - **Data** - This is an important and flexible rule group because it allows you to configure CRUD (Create, Read, Update and Delete) actions to configured data sources.
 - **File Management** - Allows operations such as the generation of a word document and conversion to PDF and more.
-- **Tables** - Provides specialised rules to enable working with tables like sorting tables, copying table rows to another table and more.
+- **Tables** - Provides specialised rules to enable working with tables like sorting, copying table rows to another table and more.
 - **Dates** - Enables convenient date calculation with advanced options like ignoring weekends or special dates.
 
 ## Conditions
@@ -45,7 +42,13 @@ Kianda data rules display the actual flow of data while interacting with form co
 
 ## Custom rules
 
-Under custom rules, you will find any custom developed rules available under your developer section.
+Under custom rules, you will find any custom-developed rules available under your developer section. Custom rules provide access to rules that are built for extensibility of Kianda capabilities. This is particularly used in situations when existing rules do not provide the required functionality.
+
+Custom rules have the purpose of providing a user interface for the end-users. If you need to build "a rule" then you should use a custom rule widget.
+
+It allows a developer to quickly build a reusable component that would then be used by process designers in real processes.
+
+Check-out the [development](development.md) section for more details on how to build custom widgets in Kianda.
 
 ## Advanced techniques
 
