@@ -1,12 +1,12 @@
-# Intro to dashboards
+# Introduction to dashboards
 
-> [!WARNING]
->
-> This documentation is in progress and might change at any stage
-
-Kianda dashboards offer a convenient way to provide insights into how your business processes are performing.
+Kianda dashboards offer a convenient way to provide insights into how your business processes are performing. Kianda dashboards offer easy reporting, manage permissions, quick to build, condition-based filters and many more.
 
 From lists to tiles, filter and charts dashboards allow you to build full digital experiences to monitor your process real-time in a few minutes.
+
+## How to create a dashboard?
+
+Kianda offers a user-friendly interface to create dashboards in a few minutes. Please follow the below video to create dashboards.
 
 <video width="100%" style="width:100%" controls>
     <source src="videos/dashboard-intro.mp4">
@@ -14,14 +14,22 @@ From lists to tiles, filter and charts dashboards allow you to build full digita
     </source>
 </video>
 
-**Enabling data export from dashboards**
+## Real-time process monitoring
+
+Kianda offers real-time monitoring over mobile, tablet or desktop using dashboards. Using Kianda dashboards, you could easily configure a process dashboard or home page in minutes with the help of widgets. Kianda comes with a pre-defined set of widgets as below:
+
+1. **Rich text**: Rich text is used to display some texts, links or images on the dashboards.
+2. **Tile**: A tile is used to display a count of instances with different colour schemes. You could also add conditions to display count, for example, you could add a condition "Status" equals "In-progress", this will display the count of instances with status "In-progress".
+3. **Chart:** Using a chart widget, you could create a pie chart, bar chart or a line chart. These charts could be used to represent various conditions on a process.
+4. **List:** The list widget displays the instances of the selected process. List widget could also be used to connect with any other widget to display the filtered items.
+5. **Filter:** The filter widget is used to filter the instances based on a field. For example, process instances could be filtered by status.
+6. **Link:** The link widget is used to add a link to a new process, dashboard or to any external sources such as SharePoint.
+
+## Enabling data export from dashboards
+
+Kianda allows the users to export the data from the dashboards on a simple click. To set up the configuration to export the data from the dashboards, please follow the below gif.
 
 ![How to export data from dashboards](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/06343ff2-12e8-4e15-8e3e-62318b92137f.gif)
 
-
-
-## Real-time process monitoring
-
 ## Offline availability
 
-## Data & filter widgets
