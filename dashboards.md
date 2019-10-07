@@ -9,7 +9,7 @@ From lists to tiles, filter and charts dashboards allow you to build full digita
 Kianda offers a user-friendly interface to create dashboards in a few minutes. Please follow the below video to create dashboards.
 
 <video width="100%" style="width:100%" controls>
-    <source src="videos/dashboard-intro.mp4">
+    <source src="videos/dashboard-introduction.mp4">
     Your browser does not support the video tag.
     </source>
 </video>
