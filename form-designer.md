@@ -43,9 +43,13 @@ Typically we use dialogs for things like requiring user confirmation or to let t
 
 ***How to use a model dialog***
 
-![Modal Dialogs](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/5fcf2af2-4ab0-4c62-9fe0-59ea6bbab13e.gif)
+<video width="100%" style="width:100%" controls>
+    <source src="videos/documentation configure dialog.mp4">
+    Your browser does not support the video tag.
+    </source>
+</video>
 
- On the example above, we use a modal dialog to display a simple *warning to the user*. The following are the steps:
+On the example above, we use a modal dialog to display a simple *warning to the user*. The following are the steps:
 
 1. On the Layout components, select the *Dialog*.
 2. Click on the dialog component to insert other fields within it.
@@ -116,8 +120,6 @@ The following are some of the key options of the anonymous link rule:
 - Message to display on submission.
 
 **Important**: There can be only one active link of each type for a given process. Once a new anonymous link is created for a process it will automatically expire the previous of the same type if a link existed.
-
-
 
 ## Input fields
 
