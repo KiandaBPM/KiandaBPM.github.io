@@ -44,7 +44,7 @@ Typically we use dialogs for things like requiring user confirmation or to let t
 ***How to use a model dialog***
 
 <video width="100%" style="width:100%" controls>
-    <source src="videos/documentation configure dialog.mp4">
+    <source src="videos/How to use a model dialog.mp4">
     Your browser does not support the video tag.
     </source>
 </video>
