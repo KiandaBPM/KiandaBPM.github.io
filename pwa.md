@@ -16,7 +16,7 @@ There are several benefits of using a PWA app when comparing to a web app or eve
 
 There are a few options to install your Kianda PWA workspace into mobile devices. The quickest is to let your users manually use the option "Add to home screen" in their mobile devices.
 
-### Android 
+### Android
 
 Android users are automatically prompted to install the PWA when they navigate to your digital workspace URL. Then can quickly choose to install by clicking the install banner prompt.
 
@@ -36,12 +36,12 @@ iOS users are not yet automatically prompted to install PWA's but it is somethin
 
 ## Offline or online
 
-As we know in some cases, when there is no internet connection, websites are completely constrained to be shown appropriately. On the other hand, progressive web applications are regularly independent, enabling users to browse the app when not online, this increases the engagement and availability greatly. With an offline mode any information can be saved automatically during the last online access.
+As we know in some cases, when there is no internet connection, websites are completely constrained to be shown appropriately. On the other hand, progressive web applications are regularly independent, enabling users to browse the app when not online, this increases engagement and availability greatly. With an offline mode, any information can be saved automatically during the last online access.
 
-For example, this can benefit businesses where users can carry out inspections or maintenance even at a remote location with no access to internet.
+For example, this can benefit businesses where users can carry out inspections or maintenance even at a remote location with no access to the internet.
 
 ## Performance
 
-Progressive web apps are faster because the way the underlying technology caches and serves text, stylesheets, images and other content on the websites. As a result user experience, consistency and conversion rate increase. 
+Progressive web apps are faster because of the way the underlying technology caches and serves text, stylesheets, images and other content on the websites. As a result user experience, consistency and conversion rate increase. 
 
 Progressive web apps utilize service workers, which are JavaScript files that run independently from the main browser thread and efficiently control caching, this is how progressive web apps enhance better performance than traditional web apps.

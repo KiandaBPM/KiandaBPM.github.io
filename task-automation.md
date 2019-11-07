@@ -4,7 +4,7 @@ Kianda could automate any tasks in few simple steps. Tasks could be something li
 
 ![img](images\kianda-schedule-tasks.JPG)
 
-Scheduling a task from the left navigation panel in few simple steps:
+Scheduling a task from the left navigation panel in a few simple steps:
 
 1. Click on 'Scheduled tasks' and click 'Schedule a task' to create a new task.
 
@@ -18,15 +18,13 @@ Scheduling a task from the left navigation panel in few simple steps:
 
 5. Process design: The process we are looking to automate.
 
-6. Process ID: If we want to restrict the schedule task on one particluar instance of the proccess, then we could define the unique process ID of the instance in the Process ID field.
+6. Process ID: If we want to restrict the scheduled task on one particular instance of the process, then we could define the unique process ID of the instance in the Process ID field.
 
 7. Select the field or rule: Selecting which rule or field to automate.
 
 ## Re-occurrence
 
 The Kianda schedule tasks can be triggered for re-occurrence. The re-occurrence could be by minutes, hours, days, weeks or months. Further, the schedule tasks could be configured easily to run at a specific minute of the hour, weekdays only, specific day of the week or specific day of the month.
-
-
 
 ## Offline availability
 

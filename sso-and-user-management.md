@@ -8,7 +8,7 @@
 
 Enabling Single-Sign-On allows the user to login via Single-Sign-On connector. This connector could be SharePoint, Office365 or anything else. To enable Single-Sign-On, please follow the below steps: 
 
-1. Login to Kianda (the user most be of Admin role). 
+1. Login to Kianda (the user must be of Admin role). 
 
 2. Under the left navigation click on Administration => Subscription => Details. 
 
@@ -28,7 +28,7 @@ Enabling Single-Sign-On allows the user to login via Single-Sign-On connector. T
 
 Kianda provides an easy to create users and groups interface which could be synchronised with a data source of your choice. To create users or groups, please follow the steps below:
 
-1. Login to Kianda (the user most be of Admin role). 
+1. Login to Kianda (the user must be of Admin role). 
 
 2. Click on 'Users' in the left navigation.
 
