@@ -4,9 +4,9 @@ Kianda form designer provides an intuitive interface where both technical and no
 
 The key components of the form designer are:
 
-1. Left side panel containing both **controls** and **types of rules** that can be added to forms.
-2. The central area where the current **form canvas** is displayed.
-3. The right panel that displays currently selected component **properties** and rules.
+1. Left side panel containing both **controls** and **rules** that can be added to forms.
+2. The central area is where the current **form canvas** is displayed.
+3. The right panel is where the currently selected component **properties** and **rules** are displayed.
 
 ***Form designer key components***
 

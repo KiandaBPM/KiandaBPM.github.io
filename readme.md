@@ -13,5 +13,6 @@ Kianda forms provide an ideal interface for rapid prototyping and delivering out
 - Integrated dashboard system.
 - Optimised for mobile use.
 - Cloud and on-premises capable.
+- Task automation.
 
 
