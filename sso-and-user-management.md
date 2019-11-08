@@ -6,7 +6,7 @@
 
 *Note: If the Single-Sign-On is already enabled and if you wish to disable it. Try to clear the cache memory and* *login to* Kianda by entering *your password first and then the username.*  
 
-Enabling Single-Sign-On allows the user to login via Single-Sign-On connector. This connector could be SharePoint, Office365 or anything else. To enable Single-Sign-On, please follow the below steps: 
+Enabling Single-Sign-On allows the user to login via Single-Sign-On connector. This connector could be SharePoint, Office365 or anything else. To enable Single-Sign-On, please follow the below steps:
 
 1. Login to Kianda (the user must be of Admin role). 
 
