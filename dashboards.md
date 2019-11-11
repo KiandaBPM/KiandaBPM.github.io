@@ -27,9 +27,15 @@ Kianda offers real-time monitoring over mobile, tablet or desktop using dashboar
 
 ## Enabling data export from dashboards
 
-Kianda allows the users to export the data from the dashboards on a simple click. To set up the configuration to export the data from the dashboards, please follow the below gif.
+Kianda allows the users to export the data from the dashboards on a simple click. To set up the configuration to export the data from the dashboards, please follow the below.
 
-![How to export data from dashboards](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/06343ff2-12e8-4e15-8e3e-62318b92137f.gif)
+<video width="100%" style="width:100%" controls>
+    <source src="videos/Enabling data export from the dashboards.mp4">
+    Your browser does not support the video tag.
+    </source>
+</video>
 
 ## Offline availability
+
+Kianda is a progressive web application. This enables Kianda dashboards to provide insights to the business processes even in offline mode.
 
