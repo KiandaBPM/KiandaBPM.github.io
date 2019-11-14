@@ -37,5 +37,6 @@ Kianda allows the users to export the data from the dashboards on a simple click
 
 ## Offline availability
 
-Kianda is a progressive web application. This enables Kianda dashboards to provide insights to the business processes even in offline mode.
+Kianda is a progressive web application. This enables Kianda dashboards to provide insights to the business processes even in offline mode. 
 
+For example, this can benefit businesses where users can carry out inspections or maintenance even at a remote location with no access to the internet. The user can create a new instance or carry out actions on an existing instance.

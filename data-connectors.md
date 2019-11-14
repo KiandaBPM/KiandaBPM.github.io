@@ -6,11 +6,12 @@
 
 Connecting to data in Kianda is a breeze. Quickly add a shared data connector that can be displayed in forms or dashboards.
 
-Kianda comes with a pre-defined set of data-connectors. A few of them are Office 365, SharePoint, Salesforce, DocuSign, SAP and more. 
+Kianda comes with a pre-defined set of data-connectors. A few of them are Office 365, SharePoint, Salesforce, DocuSign, SAP and more.
 
 However, using SOAP or REST service you could easily connect with a data source that doesn't exist in our pre-defined list.
 
 **Connecting to SharePoint Data (On-premises or Online):**
+
 <video width="100%" style="width:100%" controls>
     <source src="videos/connect-to-sharepoint.mp4">
     Your browser does not support the video tag.
