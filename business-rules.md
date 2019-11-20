@@ -17,7 +17,7 @@ In Kianda, we categorise business rules in the below categories:
 
 Flexible and dynamic conditions form an important component to make forms fully dynamic. It enables you  to create natural language conditions when rules should be triggered.
 
-![Conditions editor](images/conditions-editor.png)
+![Condition Editor](images\conditions-editor.png)
 
 ## Workflow rules
 
