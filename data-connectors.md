@@ -13,7 +13,7 @@ However, using SOAP or REST service you could easily connect with a data source 
 **Connecting to SharePoint Data (On-premises or Online):**
 
 <video width="100%" style="width:100%" controls>
-    <source src="videos/connect-to-sharepoint.mp4">
+    <source src="videos/connect to sharepoint.mp4">
     Your browser does not support the video tag.
     </source>
 </video>
