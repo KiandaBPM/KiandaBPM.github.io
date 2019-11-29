@@ -16,7 +16,11 @@ Dynamic content inside a Handlebars expression is rendered with data-binding. Th
 
 ## Widget development basics
 
-
+<video width="100%" style="width:100%" controls>
+    <source src="videos/Creating a widget.mp4">
+    Your browser does not support the video tag.
+    </source>
+</video>
 
 ## List widget custom fields
 
