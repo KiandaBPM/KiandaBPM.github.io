@@ -35,9 +35,9 @@ At the time of writing the default fields fall into four main categories of fiel
 
 Layout fields take an important role when building a modern user interface and allow you to achieve the pixel perfect layout you want.
 
-### Modal dialogs
+### Model dialogs
 
-Modal dialogs are a special form of layout fields. It allows a form designer to define an interface with the key intention of grabbing users attention to something important.
+Model dialogs are a special form of layout fields. It allows a form designer to define an interface with the key intention of grabbing users attention to something important.
 
 Typically we use dialogs for things like requiring user confirmation or to let them make a final decision.
 
@@ -84,7 +84,7 @@ The rules above work together to determine if the form is in edit mode or displa
 
 Anonymous forms are a great way of allowing people outside of your organisation to interact with your processes. 
 
-It could be something as simple as a contact form or a feedback form but as we all now a contact form never ends with the contact submission. There is always a process or a series of steps behind each public/anonymous form that might culminate with an actionable result back to the person that started the submission.
+It could be something as simple as a contact form or a feedback form but as we all know a contact form never ends with the contact submission. There is always a process or a series of steps behind each public/anonymous form that might culminate with an actionable result back to the person that started the submission.
 
 We have seen a few examples of how people use anonymous forms in Kianda. From simple feedback forms to GDPR data requests that hope between multi divisions before sending back a response to the requester with the level of information held by the organization.
 
@@ -164,7 +164,7 @@ In the form designer, almost any of the components can be cloned. This will incr
 
 To clone either a field a panel or even a form simple select the component then click the clone button in the  properties panel in right-hand side of the panel.
 
-If cloning a field the clonning dialog will prompt for the destination of the new cloned field, once your choice is made, simply click ok.
+If cloning a field the cloning dialog will prompt for the destination of the new cloned field, once your choice is made, simply click ok.
 
 ***Cloning a form***
 

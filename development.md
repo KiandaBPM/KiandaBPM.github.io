@@ -6,7 +6,7 @@ Kianda comes with a number of pre-defined field widgets. In case none of them sa
 
 Ember uses the Handlebars templating library to power application user interface. Handlebar templates contain static HTML and dynamic content inside Handlebars expressions, which are summoned with double curly braces: {{ }}
 
-Dynamic content inside a Handlebars expression is rendered with data-binding. This means if you update a property, your usage of that property in a template will be automatically updated to the latest value.
+Dynamic content inside a Handlebars expression is rendered with data-binding. This m eans if you update a property, your usage of that property in a template will be automatically updated to the latest value.
 
 **Helpers:** Ember gives the ability to write your own helpers, to bring a minimum of logic into Ember templating. For example, let's say you would like the ability to add a few numbers together, without needing to define a computed property everywhere you would like to do so.
 
@@ -16,11 +16,23 @@ Dynamic content inside a Handlebars expression is rendered with data-binding. Th
 
 ## Widget development basics
 
+Kianda offers a user-friendly interface to create custom widgets in a few minutes. A custom widget could be a 'Field' widget or a 'Rule widget'. Below we have an introduction video on how to create a custom widget and following to this video we explain with an example on how to build a custom widget.
+
 <video width="100%" style="width:100%" controls>
     <source src="videos/Creating a widget.mp4">
     Your browser does not support the video tag.
     </source>
 </video>
+
+The below two images display the default code for 'Widget UI' and 'Widget Code'.
+
+The 'Widget UI' defines the html, handlers, expressions and more. 
+
+![Widget UI](images\Widget UI.PNG)
+
+The 'Widget Code' defines the logics and functions.
+
+![Widget code](images\Widget code.PNG)
 
 ## List widget custom fields
 

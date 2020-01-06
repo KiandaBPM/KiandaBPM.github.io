@@ -76,7 +76,7 @@ Kianda comes with a number of pre-defined field widgets. In case none of them sa
 At the time of writing the default fields fall into 4 main categories of fields:
 
 1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields.
-2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout your form. They include responsive panels, dialog box and rich text fields.
+2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout of your form. They include responsive panels, dialog box and rich text fields.
 3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components.
 4. **Custom**  - Under custom fields, you will find any custom-developed fields available under your developer section.
 
