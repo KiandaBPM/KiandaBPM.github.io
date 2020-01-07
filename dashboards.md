@@ -1,6 +1,6 @@
 # Introduction to dashboards
 
-Kianda dashboards offer a convenient way to provide insights into how your business processes are performing. Kianda dashboards offer easy reporting, manage permissions, quick to build, condition-based filters and many more.
+Kianda dashboards deliver a convenient way to provide insights into how your business processes are performing. Kianda dashboards offer easy reporting, manage permissions, quick to build, condition-based filters and many more.
 
 From lists to tiles, filter and charts dashboards allow you to build full digital experiences to monitor your process real-time in a few minutes.
 
@@ -37,6 +37,6 @@ Kianda allows the users to export the data from the dashboards on a simple click
 
 ## Offline availability
 
-Kianda is a progressive web application. This enables Kianda dashboards to provide insights to the business processes even in offline mode. 
+Kianda is a progressive web application. This enables Kianda dashboards to provide insights to the business processes even in offline mode.
 
 For example, this can benefit businesses where users can carry out inspections or maintenance even at a remote location with no access to the internet. The user can create a new instance or carry out actions on an existing instance.

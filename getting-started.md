@@ -18,7 +18,7 @@ Once you confirm your email address and sign-in for the first time you will be p
 
 ## Creating your first process
 
-Once you have setup your identity you should be able to quickly progress to start creating quick forms or full-blown processes with Kianda.
+Once you have setup your identity you should be able to quickly progress to start creating new forms or full-blown processes with Kianda.
 
 Creating your first process in Kianda starts with designing your first form.
 

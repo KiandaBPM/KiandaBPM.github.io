@@ -26,7 +26,7 @@ Kianda offers a user-friendly interface to create custom widgets in a few minute
 
 The below two images display the default code for 'Widget UI' and 'Widget Code'.
 
-The 'Widget UI' defines the html, handlers, expressions and more. 
+The 'Widget UI' defines the html, handlers, expressions and more.
 
 ![Widget UI](images\Widget UI.PNG)
 

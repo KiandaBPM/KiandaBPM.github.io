@@ -28,11 +28,11 @@ Kianda workflow rules represents the actions a user intend to perform when they 
 3. **Assign form:** This rule could define a form owner by assigning a user or a group to a form. You could also choose to override or append the form owner.
 4. **Process security:** This rule defines the security of the entire process. Using this rule, you could add any user or group with the right permissions to view/update any instances.
 5. **Start a process:** Start a process rule helps you create a new instance of the same process or a different process. You could also map the inputs from the current instance to a new instance.
-6. **Schedule a rule:** This rule helps you schedule a rule/rules to be triggered one time, hourly, daily, weekly, monthly or immediately. For example, this rule could be used a schedule a daily reminder email to a user if the task is not complete.
+6. **Schedule a rule:** This rule helps you schedule a rule/rules to be triggered one time, hourly, daily, weekly, monthly or immediately. For example, this rule could be used to schedule a daily reminder email to a user if the task is not complete.
 
 ## Data rules
 
-Kianda data rules display the actual flow of data while interacting with form components. The flow of data could be internal or externally connected to different data-connectors.
+Kianda data rules display the actual flow of data while interacting with form components. The flow of data could be internally or externally connected to different data-connectors.
 
 1. **Set form field:** Using this rule you could set a field value of any field. The field value could be a simple text, current date or currently logged in user.
 2. **Find items:** This rule is used to find an item from your data-connections. To find an item, you could use a data source filter which acts like a conditional bridge between Kianda and data-connections. If the condition is true, you could map the data source field or text to the Kianda form field.

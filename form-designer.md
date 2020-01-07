@@ -16,7 +16,7 @@ The key components of the form designer are:
 
 Form fields are made to with a mobile-first approach giving you design once and deploy everywhere opportunity.
 
-By using the **Layout** option under the property panel you will be able to quickly define the layout of your fields or panels within a form. Clicking on the **ⱽ** quickly uncovers the layout mode for desktop and mobile.
+By using the **Layout** option under the property panel you will be able to simply define the layout of your fields or panels within a form. Clicking on the **^** quickly uncovers the layout mode for desktop and mobile.
 
 ![Layout mode](images/layout-mode.png)
 
@@ -26,10 +26,10 @@ This allows you to specify a layout made of 1 to 12 columns and is based on boot
 
 Kianda comes with a number of pre-defined field widgets. In case none of them satisfies your specific needs and if you have some level of [development](development.md) skills you can always create your own custom field widget.
 
-At the time of writing the default fields fall into four main categories of fields:
+At the time of writing, the default fields fall into four main categories of fields:
 
-1. **Input** - Input fields include the most common data input fields such textbox, user picker, date field, table, checkbox, drop-down and number fields.
-2. **Layout** - Layout fields are the fields that serve the purpose perfecting the layout of your form. They include responsive panels, dialog box, field groups and rich text fields.
+1. **Input** - Input fields include the most common data fields such textbox, user picker, date field, table, checkbox, drop-down and number fields.
+2. **Layout** - Layout fields are the fields that serve the purpose of perfecting the layout of your form. They include responsive panels, dialog box, field groups and rich text fields.
 3. **Action** - Action fields are fields that allow user interface actions like buttons, links or even signature components.
 4. **Custom**  - Under custom fields, you will find any custom developed fields available under your developer section.
 
@@ -90,7 +90,7 @@ We have seen a few examples of how people use anonymous forms in Kianda. From si
 
 Anonymous forms can be embedded in iframes and safely displayed within other web-based applications.
 
-### Two types anonymous forms
+### Two types of anonymous forms
 
 In Kianda there are effectively 2 types of anonymous forms
 
@@ -152,7 +152,7 @@ To achieve that you might connect your list to a data source table or SharePoint
 
 ## Input validation
 
-Validating input in forms is quick and easy. Simply enable the **required** flag of an input field and it will automatically prevent users submit it empty.
+Validating input in forms is quick and easy. Simply enable the **required** flag of an input field and it will automatically prevent users from submitting it empty.
 
 The required flag will conveniently be ignored in case the field is not visible, this will allow you to configure conditionally mandatory fields.
 
@@ -182,7 +182,7 @@ Check-out the [development](development.md) section for more details on how to b
 
 ## Advanced techniques
 
-Like the cascading dropdown discussed above several other advanced scenarios can be easily configured in Kianda. Here is a short-list:
+Like the cascading dropdown discussed above, several other advanced scenarios can be easily configured in Kianda. Here is a short-list:
 
 - **Repeating section** - A repeating section can be created by adding a **panel** to a table field. This table can be configured to include a single column made of the panel that itself will include the repeating fields of your repeating section.
 - **Capture of media** - Kianda enables mobile users to directly capture pictures, video or audio just like a native application.
