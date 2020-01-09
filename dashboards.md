@@ -24,6 +24,7 @@ Kianda offers real-time monitoring over mobile, tablet or desktop using dashboar
 4. **List:** The list widget displays the instances of the selected process. List widget could also be used to connect with any other widget to display the filtered items.
 5. **Filter:** The filter widget is used to filter the instances based on a field. For example, process instances could be filtered by status.
 6. **Link:** The link widget is used to add a link to a new process, dashboard or to any external sources such as SharePoint.
+7. **Walk-through:** This widget allows you to create a walk-through quickly which could be made available to a user, group or organisation.
 
 ## Enabling data export from dashboards
 

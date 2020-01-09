@@ -9,9 +9,12 @@ In Kianda, we categorise business rules in the below categories:
 - **Workflow** - Enables you to execute actions that might change the flow of the information within a process. 
 - **Communications** - Enables sending emails or meeting requests or even user (push) notifications.
 - **Data** - This is an important and flexible rule group because it allows you to configure CRUD (Create, Read, Update and Delete) actions to configured data sources.
+- **Users** - This enables you to retrieve a user property, updating user properties or lookup for a user based on a user attribute.
 - **File Management** - Allows operations such as the generation of a word document and conversion to PDF and more.
 - **Tables** - Provides specialised rules to enable working with tables like sorting, copying table rows to another table and more.
 - **Dates** - Enables convenient date calculation with advanced options like ignoring weekends or special dates.
+- **Form actions** - Allows operations like submit, save, close and delete forms. 
+- **SharePoint** - Provides a variety of operations to be performed on the SharePoint connection. These rules include operations like create a list, find a user, define permission to an item, check in / out an item or adding a user to a SharePoint group.
 
 ## Conditions
 
