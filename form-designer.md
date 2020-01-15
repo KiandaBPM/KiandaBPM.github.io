@@ -82,7 +82,9 @@ The rules above work together to determine if the form is in edit mode or displa
 3. The *name* is a unique identifier - you can leave it as it is.
 4. You can define an owner to the form.
 5. Activate with will decide when the form will be active - if you leave it blank, the new form will be activated *sequentially* after the first form is submitted.
-6. You can also decide what happens when the form is submitted.
+6. Select *Submit mode* - you can submit just the current form or all forms that are in edit mode.
+7. Check *Enable quick actions* if you want the form to be edited or re-assigned.
+8. Provide a user or group in the *Quick action user (s)* to whom you would like to permit to re-assign or edit the form 
 
 ## Anonymous Forms
 
