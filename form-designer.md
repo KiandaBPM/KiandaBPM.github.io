@@ -71,7 +71,11 @@ The rules above work together to determine if the form is in edit mode or displa
 
 ***How to add new form***
 
-![How to add a new form](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/14015ac2-2a2a-4bce-b52a-02585e166679.gif)
+<video width="100%" style="width:100%" controls>
+    <source src="videos/How to add new form 1.mp4">
+    Your browser does not support the video tag.
+    </source>
+</video>
 
 1. Click on *Add form*, on the top right side of the page.
 2. Give your form a title.
