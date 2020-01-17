@@ -154,7 +154,11 @@ To achieve that you might connect your list to a data source table or SharePoint
 
 ***How to create cascading dropdowns***
 
-![How to create cascading dropdown](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/aa23650a-e87e-4f29-b70b-8de1510af61a.gif)
+<video width="100%" style="width:100%" controls>
+    <source src="videos/How to create cascading dropdowns.mp4">
+    Your browser does not support the video tag.
+    </source>
+</video>
 
 ## Input validation
 
@@ -174,7 +178,11 @@ If cloning a field the cloning dialog will prompt for the destination of the new
 
 ***Cloning a form***
 
-![Duplicate a form](https://app.kianda.com/Content/6ceb0eeb-bfb7-44a8-ad57-3df169286224/d1bf565d-3925-42a3-877e-47b736a9cf6a.gif)
+<video width="100%" style="width:100%" controls>
+    <source src="videos/Cloning a form.mp4">
+    Your browser does not support the video tag.
+    </source>
+</video>
 
 ## Custom fields
 
