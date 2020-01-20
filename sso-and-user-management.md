@@ -37,7 +37,7 @@ Kianda provides an easy to create users and groups interface which could be sync
 
 2. Click on 'Users' in the left navigation.
 
-3. Click on 'Add user', a pop-up window appears as shown below to provide the details of the user.
+3. Click on 'Add User', a pop-up window appears as shown below to provide the details of the user.
 
    ![img](images\kianda-create-user.JPG)
 
