@@ -1,9 +1,5 @@
 # Office 365 Single Sign On (SSO)
 
-> [!WARNING]
->
-> This documentation is in process
-
 *Note: If the Single-Sign-On is already enabled and if you wish to disable it. Try to clear the cache memory and* *login to* Kianda by entering *your password first and then the username.*  
 
 Enabling Single-Sign-On allows the user to login via Single-Sign-On connector. This connector could be SharePoint, Office365 or anything else. To enable Single-Sign-On, please follow the below steps:
@@ -30,8 +26,6 @@ Kianda offers easy integration with Office 365. To set-up the office 365 data co
 4. Click on *Authorize* and login to the Office 365 account.
 5. Now, select the options using the checkboxes.
 6. Click on *Save* and then *Test connection*.
-
-
 
 ## Sync with Active Directory
 
