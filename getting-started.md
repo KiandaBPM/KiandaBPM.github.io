@@ -18,7 +18,7 @@ Once you confirm your email address and sign-in for the first time you will be p
 
 ## Creating your first process
 
-Once you have setup your identity you should be able to quickly progress to start creating new forms or full-blown processes with Kianda.
+Once you have set up your identity you should be able to quickly progress to start creating new forms or full-blown processes with Kianda.
 
 Creating your first process in Kianda starts with designing your first form.
 
@@ -53,7 +53,7 @@ The key components of the form designer are:
 
 1. Left side panel containing both **controls** and **types of rules** that can be added to forms.
 2. The central area where the current **form canvas** is displayed.
-3. The right panel that displays currently selected component **properties** and rules.
+3. The right panel displays currently selected component **properties** and rules.
 
 ***Form designer key components***
 
@@ -67,7 +67,7 @@ By using the **Layout** option under the property panel you will be able to quic
 
 ![Layout mode](images/layout-mode.png)
 
-This allows you to specify a layout made of 1 to 12 columns and is based on bootstrap, a popular CSS  framework that allows designing web interfaces with mobile-first approach.
+This allows you to specify a layout made of 1 to 12 columns and is based on bootstrap, a popular CSS  framework that allows designing web interfaces with a mobile-first approach.
 
 ### Types of fields
 
@@ -75,7 +75,7 @@ Kianda comes with a number of pre-defined field widgets. In case none of them sa
 
 At the time of writing the default fields fall into 4 main categories of fields:
 
-1. **Input** - Input fields include the most common data input fields such textbox, user picker, dates, tables checkbox and number fields.
+1. **Input** - Input fields include the most common data input fields such as textbox, user picker, dates, tables checkbox and number fields.
 2. **Layout** - Layout fields are fields that serve the purpose perfecting the layout of your form. They include responsive panels, dialog box and rich text fields.
 3. **Action** - Action fields are fields that allow user interface action like buttons, links or even signature components.
 4. **Custom**  - Under custom fields, you will find any custom-developed fields available under your developer section.
@@ -92,7 +92,7 @@ Simply select any form component or even the whole process then under rules clic
 
 ## Connect to your data
 
-Kianda comes with a pre-defined set of data-connectors. A few of them are Office 365, SharePoint, Saleforce, DocuSign, SAP and more. 
+Kianda comes with a pre-defined set of data-connectors. A few of them are Office 365, SharePoint, Salesforce, DocuSign, SAP and more. 
 
 However, using SOAP or REST service you could easily connect with a datasource that doesn't exist in our pre-defined list.
 
@@ -100,7 +100,7 @@ However, using SOAP or REST service you could easily connect with a datasource t
 
 ## Publishing a process
 
-Kianda form designer comes with a intiutive interface to quickly Save and Publish any designs. The below are the options available for you to Save and Publish a process.
+Kianda form designer comes with an intiutive interface to quickly Save and Publish any designs. Below are the options available for you to Save and Publish a process.
 
 1. **Bulk update process instances?** - If this is set to be Yes, then you could select the process instances to be updated with the latest changes in the design.  If No, this could just save the latest changes and publish to a new version.
 2. **Trigger field rules after design update?** - If this option is set to be Yes, then you could set a rule or rules to be executed after the design is updated which will also update the existing instance for this process.
