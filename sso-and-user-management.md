@@ -20,6 +20,17 @@ Enabling Single-Sign-On allows the user to login via Single-Sign-On connector. T
 
 ## Integrate with Office 365
 
+![img](images\IntegrateOffice365.PNG)
+
+Kianda offers easy integration with Office 365. To set-up the office 365 data connector, please follow the steps below:
+
+1. Login to Kianda (the user must be of Admin role).
+2. Under the left navigation click on Administration => Data sources => Add new. 
+3. Select *Office 365* datasource.
+4. Click on *Authorize* and login to the Office 365 account.
+5. Now, select the options using the checkboxes.
+6. Click on *Save* and then *Test connection*.
+
 
 
 ## Sync with Active Directory
