@@ -59,3 +59,5 @@ Check-out the [development](development.md) section for more details on how to b
 >
 > In Progress
 
+Kianda provides a platform to incorparate CSS and HTMl using Richtext field.
+
