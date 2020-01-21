@@ -111,7 +111,7 @@ To set up a globally available link for allowing external users to create a new 
 2. Then click the option "Enable anonymous sharing of forms" to Yes.
 3. Click the button "New Link" to generate a new anonymous link.
 
-![anonymous-forms](images\anonymous-forms.png)
+![Anonymous forms](images\anonymous-forms.png)
 
 **Existing Process Anonymous Form**
 
