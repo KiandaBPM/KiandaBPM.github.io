@@ -1,5 +1,9 @@
 # Kianda Guides
 
+> [!WARNING]
+>
+> This documentation is in progress and might change at any stage.
+
 Welcome to Kianda Guides! This documentation will take you from a total beginner to a Kianda expert.
 
 After completing this guide you are armed with information that will let you build beautiful mobile-ready forms that orchestrate into a digital business process. 
