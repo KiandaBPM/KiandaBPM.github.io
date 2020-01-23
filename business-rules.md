@@ -53,11 +53,3 @@ It allows a developer to quickly build a reusable component that would then be u
 
 Check-out the [development](development.md) section for more details on how to build custom widgets in Kianda.
 
-## Advanced techniques
-
-> [!WARNING]
->
-> In Progress
-
-Kianda provides a platform to incorparate CSS and HTMl using Richtext field.
-

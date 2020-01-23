@@ -199,7 +199,7 @@ Check-out the [development](development.md) section for more details on how to b
 Like the cascading dropdown discussed above, several other advanced scenarios can be easily configured in Kianda. Here is a short-list:
 
 - **Repeating section** - A repeating section can be created by adding a **panel** to a table field. This table can be configured to include a single column made of the panel that itself will include the repeating fields of your repeating section.
-- **Capture of media** - Kianda enables mobile users to directly capture pictures, video or audio just like a native application.
+- **The capture of media** - Kianda enables mobile users to directly capture pictures, video or audio just like a native application.
 -  **Background save** - By making use of PWA principles (Progressive Web Application) Kianda allows the ability to perform background operations. This is useful when, for example, a mobile user picks-up their phone to perform a quick action and places it back in his pocket. Operations will continue in the background allowing all data to be captured.
 - **Image annotation** - Kianda allows for image annotation online or offline.
 - **Multi-column / row layout** - Making multi-column responsive interfaces is quite easy. Simply add two panels into a form that only use half of the screen (6 columns) then add fields inside panels and you have multiple column layouts. Adding a panel using 12 columns gives you a row.
