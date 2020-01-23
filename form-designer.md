@@ -179,7 +179,7 @@ If cloning a field the cloning dialog will prompt for the destination of the new
 ***Cloning a form***
 
 <video width="100%" style="width:100%" controls>
-    <source src="videos/Cloning a form.mp4">
+    <source src="videos/Cloning a form updated.mp4">
     Your browser does not support the video tag.
     </source>
 </video>
