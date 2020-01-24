@@ -44,4 +44,4 @@ Emphasize benefits to potential clients who are frequently operating in remote a
 
 Progressive web apps are faster because of the way the underlying technology caches and serves text, stylesheets, images and other content on the websites. As a result user experience, consistency and conversion rate increase.
 
-Progressive web apps utilize service workers, which are JavaScript files that run independently from the main browser thread and efficiently control caching, this is how progressive web apps enhance better performance than traditional web apps.
+Progressive web apps utilize service workers, which are JavaScript files that run independently from the main browser thread and efficiently control caching, this is how progressive web apps enhance better performance than traditional web apps. 
