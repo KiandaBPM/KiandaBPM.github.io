@@ -10,6 +10,8 @@ Dynamic content inside a Handlebars expression is rendered with data-binding. Th
 
 **Helpers:** Ember gives the ability to write your helpers, to bring a minimum of logic into Ember templating. For example, let's say you would like the ability to add a few numbers together, without needing to define a computed property everywhere you would like to do so.
 
+![Helpers](C:\Projects\Docs\KiandaBPM.github.io\images\write our own helpers.PNG)
+
 ![Helper](images\write our own helpers.PNG)
 
 **Conditionals:** Statements like if and unless are implemented as built-in helpers. Helpers can be invoked three ways; inline invocation, nested invocation and block invocation. For more details, click on the following link https://guides.emberjs.com/v2.18.0/templates/conditionals/.
