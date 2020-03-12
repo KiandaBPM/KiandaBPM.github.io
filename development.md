@@ -10,7 +10,7 @@ Dynamic content inside a Handlebars expression is rendered with data-binding. Th
 
 **Helpers:** Ember gives the ability to write your helpers, to bring a minimum of logic into Ember templating. For example, let's say you would like the ability to add a few numbers together, without needing to define a computed property everywhere you would like to do so.
 
-![Helpers](C:\Projects\Docs\KiandaBPM.github.io\images\write our own helpers.PNG)
+![98789767656](images\write our own helpers.png)
 
 ![Helper](images\write our own helpers.PNG)
 
