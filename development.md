@@ -28,11 +28,11 @@ The below two images display the default code for 'Widget UI' and 'Widget Code'.
 
 The 'Widget UI' defines the HTML, handlers, expressions and more.
 
-![Widget UI](images\Widget UI.PNG)
+![Widget-UI](images\widget-ui.PNG)
 
 The 'Widget Code' defines the logics and functions.
 
-![Widget code](images\Widget code.PNG)
+![Widget-code](images\widget-code.PNG)
 
 ## List widget custom fields
 
