@@ -8,4 +8,4 @@
 
 [Get Started](readme.md)
 [Form Designer](form-designer.md)
-[Free Trial](https://app.kianda.com/signup)
+[Demo Request](https://www.kianda.com/demo-request)
